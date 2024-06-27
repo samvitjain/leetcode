@@ -1,7 +1,5 @@
-# LeetCode Daily
+# LeetCode
 
-- Java
-- C#
-- TS
-- JS
-- SQL
+## LeetCode problem solutions for progamming practice in python.
+
+[about me](https://samvit.xyz)
